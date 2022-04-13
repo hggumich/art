@@ -44,18 +44,18 @@ const layers = [
  
   {
     id: 1,
-    name: "skullgogglesmaustachcaps2500",
-    location: `${dir}/skullgogglesmaustachcaps2500/`,
-    elements: getElements(`${dir}/skullgogglesmaustachcaps2500/`),
+    name: "bg",
+    location: `${dir}/bg/`,
+    elements: getElements(`${dir}/bg/`),
     position: { x: 0, y: 0 },
     size: { width: width, height: height },
   },
  
   {
     id: 2,
-    name: "cigar",
-    location: `${dir}/cigar/`,
-    elements: getElements(`${dir}/cigar/`),
+    name: "skull",
+    location: `${dir}/skull/`,
+    elements: getElements(`${dir}/skull/`),
     position: { x: 0, y: 0 },
     size: { width: width, height: height },
   },
